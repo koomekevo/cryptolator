@@ -82,5 +82,5 @@ test:
 production:
   <<: *default
   database: cryptolator_production
-  username: cryptolator
-  password: <%= ENV["CRYPTOLATOR_DATABASE_PASSWORD"] %>
+  username: kevinkoome
+  password: 123456
