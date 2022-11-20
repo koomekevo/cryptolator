@@ -1,24 +1,42 @@
-# README
+# Cryptolator
+Cryptolator is an Cryptocurrency Portfolio Calculator made using React and Ruby on Rails.
+## Built With
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- React.
+- Ruby on Rails. 
+ 
+## Getting Started
 
-Things you may want to cover:
+To get a local copy up and running follow these simple example steps.
 
-* Ruby version
+Clone the repo with `https://github.com/koomekevo/cryptolator.git`
 
-* System dependencies
+Run `cd cryptolator` to access app.
 
-* Configuration
+Run `bundle install` to install dependencies.
 
-* Database creation
+Run `rails db:setup` to set database and migrations.
 
-* Database initialization
+Run `rails s` to run the app.
 
-* How to run the test suite
+## Authors
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Kevin Koome**
 
-* Deployment instructions
+- GitHub: [@koomekevo](https://github.com/koomekevo)
+- Twitter: [@koomekevo](https://twitter.com/koomekevo)
+- LinkedIn: [LinkedIn](https://ke.linkedin.com/in/kevin-koome-aab84186)
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
